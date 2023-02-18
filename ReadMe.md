@@ -1,0 +1,1 @@
+[![Build C++](https://github.com/prasannarajezzzy/CSCI630-Exercise/actions/workflows/c-cpp-action.yml/badge.svg)](https://github.com/prasannarajezzzy/CSCI630-Exercise/actions/workflows/c-cpp-action.yml)
